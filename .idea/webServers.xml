@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="730c6743-3f68-49df-b13e-78dadd78d529" name="npcc">
+        <fileTransfer rootFolder="/mnt/ufs18/home-144/hanhaoy1" accessType="SFTP" host="v100" port="22" sshConfigId="ed79e9fa-9578-4c63-9bba-c6602acc6616" sshConfig="hanhaoy1@v100:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
